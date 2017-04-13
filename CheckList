@@ -1,0 +1,8 @@
+Testing Gizmos
+
+- Selection of objects, and the ability to: [/]Translate, [x]Scale, and [x]Rotate from different axes.
+
+[/] Loading resources for placing objects down.
+
+[x] Able to save creations
+[x] Able to load creations
