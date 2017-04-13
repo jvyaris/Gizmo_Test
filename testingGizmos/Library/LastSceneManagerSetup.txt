@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/John/Scenes/GizmoTest.unity
+  isLoaded: 1
+  isActive: 1
